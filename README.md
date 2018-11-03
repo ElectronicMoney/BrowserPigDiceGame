@@ -1,5 +1,5 @@
 # Browser Pig Dice Game
-Pig is a simple dice game which in its basic form is playable with just a single die. You win by being the first player to score 100 or more points.
+Browser Pig Dice Game is a simple dice game which is written in Javascript. The gane in its basic form is playable with just a single die. You win by being the first player to score 100 or more points.
 
 #THE RULES OF THE GAME:
 - The game has 2 players, playing in rounds
